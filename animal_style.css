@@ -1,0 +1,29 @@
+body{
+    font-family: 'Staatliches', sans-serif;
+    background-color:lightgreen;
+}
+
+.footer{
+   width: 100%;
+   position: fixed;
+   bottom:0;
+   background-color: lightcoral;
+   font-size: 20px;
+}
+
+h1{
+    width:100%;
+    background-color: bisque;
+}
+
+p{
+    font-weight: bold;
+    color: darkred;
+    font-size: 20px;
+}
+
+.b1{
+    font-size: 25px;
+    letter-spacing: 5px;
+    font-weight: lighter;
+}
